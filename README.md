@@ -1,5 +1,5 @@
 # Computer-Organization-Labs
-This repository incldues:
+This repository includues:
 - Implementations of 
   - single-cycle processors
   - pipelined processors 
