@@ -1,4 +1,4 @@
-# Computer-Organization-Labs
+# Computer Organization Labs
 This repository includues:
 - Implementations of 
   - single-cycle processors
